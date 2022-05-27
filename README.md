@@ -1,5 +1,5 @@
-# PhysiCell User Manual
-This is the home of the future user manual for PhysiCell. 
+# PhysiCell User Guide
+This is the home of the future user guide for PhysiCell. 
 
 ## Brief overview 
 
