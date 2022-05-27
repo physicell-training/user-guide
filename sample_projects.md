@@ -45,7 +45,7 @@ In general, building and running these projects consists of the following steps:
     ./cancer_biorobots
     ```
 
-    The project will create a series of SVG images files, as well as MultiCellDS save files (a combination of matlab and XML files). It will also place a copy of your configuration file in the output directory. See [reference]() and the [PhysiCell blog]().
+    The project will create a series of SVG images files, as well as MultiCellDS save files (a combination of matlab and XML files). It will also place a copy of your configuration file in the output directory. See [???]() and the [PhysiCell blog]().
 
 1. **(Optional) Clear your data to prepare for a new run:** If you want to clean up your data, use: 
 
@@ -78,4 +78,4 @@ substrate tracking first released in PhysiCell 1.5.0.
 * `beta-testing` is a small project that can be used for beta testing new features. Don’t count on it
 remaining unchanged from release to release.
 * `template` is the template for creatiung a new 2D or 3D project. 
-See [ref](). 
+See [???](). 
