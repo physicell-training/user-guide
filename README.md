@@ -7,7 +7,8 @@ This is the home of the future user guide for PhysiCell.
 ### Getting started quickly 
 * [Setup](setup.md)
 * [Suggested tools](suggested_tools.md)
-* [Project templates](project_templates.md)
+* [Sample projects](sample_projects.md)
+* [Project template](project_template.md)
 * [Microenvironment](microenvironment.md)
 * [Cells](cells.md)
 * [Cell Phenotype](cell_phenotype.md)
